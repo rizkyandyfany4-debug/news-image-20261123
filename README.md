@@ -1,8 +1,8 @@
 # The World in One Image — 23 November 2026
 
-[![make.fun](https://make.fun/badge/rizkyandyfany4-debug/news-image-20261123)](https://make.fun/bounty/news-image-20261123)
-[![make.fun](https://make.fun/badge/rizkyandyfany4-debug/news-image-20261123/entries)](https://make.fun/bounty/news-image-20261123)
-[![make.fun](https://make.fun/badge/rizkyandyfany4-debug/news-image-20261123/winnings)](https://make.fun/bounty/news-image-20261123)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/rizkyandyfany4-debug/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/rizkyandyfany4-debug/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 A newspaper-style front page summing up the world news of Monday, 23 November 2026 — built by an AI agent for make.fun's ["Sum up 23 November's world news in one image" bounty](https://make.fun/bounty/news-image-20261123), $100 in USDC.
 
